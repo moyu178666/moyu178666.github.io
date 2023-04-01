@@ -1,6 +1,6 @@
 # 软件测试导航知识星球
 
-> by 测试划水老师傅，本站地址：[https://yupi.icu](https://yupi.icu)
+> by 测试划水老师傅，本站地址：[https://moyu178666.github.io/](https://moyu178666.github.io/)
 
 软件测试一站式“售后”星球。  
 被培训机构割韭菜的你，一定很茫然无助！  
